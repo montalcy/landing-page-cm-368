@@ -298,7 +298,7 @@ ol,
   grid-row-start: 1;
   /* padding-left: 10%; */
   align-content: center;
-  margin-left: 30%;
+  margin-left: 65%; 
 }
 
 #lui-img {
@@ -306,7 +306,7 @@ ol,
   grid-row-start: 3;
   align-content: center;
   /* padding-left: 10%; */
-  margin-left: 30%;
+  margin-left: 65%;
 }
 
 #luis {
